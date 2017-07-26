@@ -18,39 +18,36 @@
     <!-- Mobile Specific Metas
   ================================================== -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <!--[if lt IE 9]>
-<script src="http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/html5.js" type="text/javascript"></script>
-<![endif]-->
     <title>Manila Polo Club</title>
     <link rel="alternate" type="application/rss+xml" title="Luxury &#187; Feed" href="http://demonew.templatesquare.com/luxury/feed/" />
     <link rel="alternate" type="application/rss+xml" title="Luxury &#187; Comments Feed" href="http://demonew.templatesquare.com/luxury/comments/feed/" />
     <link rel="alternate" type="application/rss+xml" title="Luxury &#187; Home Comments Feed" href="http://demonew.templatesquare.com/luxury/home/feed/" />
     <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/demonew.templatesquare.com\/luxury\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.15"}}; !function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&amp;&amp;c.getContext("2d");return d&amp;&amp;d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length&gt;3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&amp;&amp;c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&amp;&amp;c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&amp;&amp;f.twemoji&amp;&amp;(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script>
     <style type="text/css">img.wp-smiley, img.emoji { display: inline !important; border: none !important; box-shadow: none !important; height: 1em !important; width: 1em !important; margin: 0 .07em !important; vertical-align: -0.1em !important; background: none !important; padding: 0 !important; }</style>
-    <link rel='stylesheet' id='prettyphoto-css-css' href='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/css/prettyPhoto.css?ver=4.2.15' type='text/css' media='screen, all' />
+    <link rel='stylesheet' id='prettyphoto-css-css' href='{{ URL::to('/css/prettyPhoto.css?ver=4.2.15') }}' type='text/css' media='screen, all' />
     <link rel='stylesheet' id='googleFonts-css' href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C400%2C300%2C600%2C400italic%7CRoboto%3A400%2C100%2C300%2C500&amp;ver=4.2.15' type='text/css' media='all' />
-    <link rel='stylesheet' id='skeleton-css-css' href='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/css/skeleton.css?ver=4.2.15' type='text/css' media='screen, all' />
-    <link rel='stylesheet' id='general-css-css' href='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/css/general.css?ver=4.2.15' type='text/css' media='screen, all' />
-    <link rel='stylesheet' id='flexslider-css-css' href='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/css/flexslider.css?ver=4.2.15' type='text/css' media='screen, all' />
-    <link rel='stylesheet' id='camera-css-css' href='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/css/camera.css?ver=4.2.15' type='text/css' media='screen, all' />
-    <link rel='stylesheet' id='fontawesome-css' href='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/css/font-awesome.min.css?ver=4.0.3' type='text/css' media='all' />
-    <link rel='stylesheet' id='main-css-css' href='http://demonew.templatesquare.com/luxury/wp-content/themes/luxury-ts/style.css?ver=4.2.15' type='text/css' media='all' />
-    <link rel='stylesheet' id='color-css-css' href='http://demonew.templatesquare.com/luxury/wp-content/themes/luxury-ts/color.css?ver=4.2.15' type='text/css' media='screen, all' />
-    <link rel='stylesheet' id='layout-css-css' href='http://demonew.templatesquare.com/luxury/wp-content/themes/luxury-ts/css/layout.css?ver=4.2.15' type='text/css' media='all' />
-    <link rel='stylesheet' id='noscript-css-css' href='http://demonew.templatesquare.com/luxury/wp-content/themes/luxury-ts/css/noscript.css?ver=4.2.15' type='text/css' media='screen, all' />
-    <link rel='stylesheet' id='siteorigin-panels-front-css' href='http://demonew.templatesquare.com/luxury/wp-content/plugins/siteorigin-panels/css/front.css?ver=2.1.4' type='text/css' media='all' />
-    <link rel='stylesheet' id='contact-form-7-css' href='http://demonew.templatesquare.com/luxury/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='wp-pagenavi-css' href='http://demonew.templatesquare.com/luxury/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
-    <link rel='stylesheet' id='simple-social-icons-font-css' href='http://demonew.templatesquare.com/luxury/wp-content/plugins/simple-social-icons/css/style.css?ver=1.0.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='wpgmaps-style-css' href='http://demonew.templatesquare.com/luxury/wp-content/plugins/wp-google-maps/css/wpgmza_style.css?ver=4.2.15' type='text/css' media='all' />
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+    <link rel='stylesheet' id='skeleton-css-css' href='{{ URL::to('/css/skeleton.css?ver=4.2.15') }}' type='text/css' media='screen, all' />
+    <link rel='stylesheet' id='general-css-css' href='{{ URL::to('/css/general.css?ver=4.2.15') }}' type='text/css' media='screen, all' />
+    <link rel='stylesheet' id='flexslider-css-css' href='{{ URL::to('/css/flexslider.css?ver=4.2.15') }}' type='text/css' media='screen, all' />
+    <link rel='stylesheet' id='camera-css-css' href='{{ URL::to('/css/camera.css?ver=4.2.15') }}' type='text/css' media='screen, all' />
+    <link rel='stylesheet' id='fontawesome-css' href='{{ URL::to('/css/font-awesome.min.css?ver=4.0.3') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='main-css-css' href='{{ URL::to('/css/style.css?ver=4.2.15') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='color-css-css' href='{{ URL::to('/css/color.css?ver=4.2.15') }}' type='text/css' media='screen, all' />
+    <link rel='stylesheet' id='layout-css-css' href='{{ URL::to('/css/layout.css?ver=4.2.15') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='noscript-css-css' href='{{ URL::to('/css/noscript.css?ver=4.2.15') }}' type='text/css' media='screen, all' />
+    <link rel='stylesheet' id='siteorigin-panels-front-css' href='{{ URL::to('/css/front.css?ver=2.1.4') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css' href='{{ URL::to('/css/styles.css?ver=4.2.1') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-pagenavi-css' href='{{ URL::to('/css/pagenavi-css.css?ver=2.70') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='simple-social-icons-font-css' href='{{ URL::to('/css/style.css?ver=1.0.5') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='wpgmaps-style-css' href='{{ URL::to('/css/wpgmza_style.css?ver=4.2.15') }}' type='text/css' media='all' />
+    <script type='text/javascript' src='{{ URL::to('/js/jquery.js?ver=1.11.2') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/jquery-migrate.min.js?ver=1.2.1') }}'></script>
     <script type='text/javascript'>/* 
 <![CDATA[ */
 var panelsStyles = {"fullContainer":"body"};
 /* ]]>
 */</script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/plugins/siteorigin-panels/js/styling.min.js?ver=2.1.4'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/styling.min.js?ver=2.1.4') }}'></script>
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://demonew.templatesquare.com/luxury/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://demonew.templatesquare.com/luxury/wp-includes/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 4.2.15" />
@@ -681,20 +678,20 @@ var panelsStyles = {"fullContainer":"body"};
     <p style='min-width:100px; display:block;'>"+Math.round(d,2)+"miles away</p>"; } else { d_string = " 
     <p style='min-width:100px; display:block;'>"+Math.round(d,2)+"km away</p>"; } } else { d_string = ''; } var html=' 
     <p style="\'min-width:100px;">'+wpmgza_address+'</p>'+d_string; if (wpmgza_infoopen === "1") { infoWindow.setContent(html); infoWindow.open(MYMAP.map, marker); } google.maps.event.addListener(marker, 'click', function() { infoWindow.close(); infoWindow.setContent(html); infoWindow.open(MYMAP.map, marker); }); } } }); } } function searchLocations(map_id) { var address = document.getElementById("addressInput").value; var geocoder = new google.maps.Geocoder(); geocoder.geocode({address: address}, function(results, status) { if (status === google.maps.GeocoderStatus.OK) { searchLocationsNear(map_id,results[0].geometry.location); } else { alert(address + ' not found'); } }); } function clearLocations() { infoWindow.close(); } function searchLocationsNear(mapid,center_searched) { clearLocations(); var distance_type = document.getElementById("wpgmza_distance_type").value; var radius = document.getElementById('radiusSelect').value; if (distance_type === "1") { if (radius === "1") { zoomie = 14; } else if (radius === "5") { zoomie = 12; } else if (radius === "10") { zoomie = 11; } else if (radius === "25") { zoomie = 9; } else if (radius === "50") { zoomie = 8; } else if (radius === "75") { zoomie = 8; } else if (radius === "100") { zoomie = 7; } else if (radius === "150") { zoomie = 7; } else if (radius === "200") { zoomie = 6; } else if (radius === "300") { zoomie = 6; } else { zoomie = 14; } } else { if (radius === "1") { zoomie = 14; } else if (radius === "5") { zoomie = 12; } else if (radius === "10") { zoomie = 11; } else if (radius === "25") { zoomie = 10; } else if (radius === "50") { zoomie = 9; } else if (radius === "75") { zoomie = 8; } else if (radius === "100") { zoomie = 8; } else if (radius === "150") { zoomie = 7; } else if (radius === "200") { zoomie = 7; } else if (radius === "300") { zoomie = 6; } else { zoomie = 14; } } MYMAP.init("#wpgmza_map", center_searched, zoomie, 3); MYMAP.placeMarkers('http://demonew.templatesquare.com/luxury/wp-content/uploads/sites/8/wp-google-maps/8-1markers.xml?u='+UniqueCode,mapid,radius,center_searched,distance_type); } function toRad(Value) { /** Converts numeric degrees to radians */ return Value * Math.PI / 180; }</script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/jquery.prettyPhoto.js?ver=3.1.5'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/jquery.flexslider-min.js?ver=2.1'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/jquery.elastislide.js?ver=1.0'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/quicksand.js?ver=1.2.1'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/modernizr.js?ver=2.8.3'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/hoverIntent.js?ver=1.0'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/superfish.js?ver=1.4.8'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/supersubs.js?ver=0.2'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/jquery.easing.1.3.js?ver=1.3'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/tinynav.min.js?ver=1.0'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/retina-1.1.0.min.js?ver=1.1.0'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/klasik/js/camera.min.js?ver=1.3.3'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/themes/luxury-ts/js/custom.js?ver=1.0'></script>
-    <script type='text/javascript' src='http://demonew.templatesquare.com/luxury/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/jquery.prettyPhoto.js?ver=3.1.5') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/jquery.flexslider-min.js?ver=2.1') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/jquery.elastislide.js?ver=1.0') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/quicksand.js?ver=1.2.1') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/modernizr.js?ver=2.8.3') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/hoverIntent.js?ver=1.0') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/superfish.js?ver=1.4.8') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/supersubs.js?ver=0.2') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/jquery.easing.1.3.js?ver=1.3') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/tinynav.min.js?ver=1.0') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/retina-1.1.0.min.js?ver=1.1.0') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/camera.min.js?ver=1.3.3') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/custom.js?ver=1.0') }}'></script>
+    <script type='text/javascript' src='{{ URL::to('/js/jquery.form.min.js?ver=3.51.0-2014.06.20') }}'></script>
     <script type='text/javascript'>/* 
 <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/demonew.templatesquare.com\/luxury\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
