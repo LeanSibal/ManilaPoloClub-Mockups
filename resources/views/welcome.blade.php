@@ -67,18 +67,18 @@ var panelsStyles = {"fullContainer":"body"};
           <div id="headercontainer">
             <header id="top">
               <!-- LOGO -->
-              <div id="outerlogo">
+              <div id="outerlogo" style="position:static">
                 <div id="logo">
                   <div id="logoimg">
                     <a href="#" title="Luxury">
-                      <img src="{{ URL::to('/images/logo.jpg') }}" alt="" style="max-height:150px"/>
+                      <img src="{{ URL::to('/images/logo.jpg') }}" alt="" style="max-height:120px"/>
                     </a>
                   </div>
                   <div class="clear"></div>
                 </div>
               </div>
               <!-- END LOGO -->
-              <div id="outerslider">
+              <div id="outerslider" style="margin-top:130px !important">
                 <div id="slidercontainer">
                   <section id="slider">
                     <!-- SLIDER -->
